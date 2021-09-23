@@ -1,8 +1,8 @@
-<h1>Data Cleaning and Exploratory Data Analysis on python</h>
+<h1>Data Cleaning and Exploratory Data Analysis on python</h1>
 
  
-Earing on the "house price prediction" data set. 
-Liaries used; numpy, pandas, missingno & matplotlib
+**Earing on the "house price prediction" data set. 
+Liaries used; numpy, pandas, missingno & matplotlib**
   
  <h2>Step 1: Initial steps</h2>
 
